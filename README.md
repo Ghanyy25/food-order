@@ -148,5 +148,9 @@ Panduan ini menjelaskan cara menggunakan fitur-fitur utama dalam aplikasi baik s
 1.  Admin dapat membuat kategori makanan baru (misal: Makanan Berat, Minuman, Snack) agar menu lebih terorganisir.
 
 -----
+🎥 Video Tutorial Cara Menggunakan Web
+Untuk panduan visual langkah-demi-langkah tentang cara menggunakan fitur aplikasi ini (mulai dari login, memesan makanan, hingga manajemen admin), silakan tonton video berikut:
+
+Klik gambar di atas atau link di bawah ini untuk menonton: https://youtu.be/11XIyWYNF2o
 
 **Catatan:** Jika Anda mengalami kendala saat instalasi atau penggunaan, pastikan konfigurasi database di file `.env` sudah sesuai dengan pengaturan MySQL lokal Anda.
